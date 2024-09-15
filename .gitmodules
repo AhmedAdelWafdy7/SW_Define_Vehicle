@@ -1,0 +1,3 @@
+[submodule "ECU-HEAD"]
+	path = ECU-HEAD
+	url = git@github.com:AhmedAdelWafdy7/ECU-HEAD.git
